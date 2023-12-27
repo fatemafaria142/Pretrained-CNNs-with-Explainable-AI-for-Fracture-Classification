@@ -22,4 +22,5 @@ The FracAtlas dataset was utilized for this project. It is a comprehensive colle
 ### Saliency Maps
 - Vanilla Saliency
 - SmoothGrad
+- SmoothGrad
 
